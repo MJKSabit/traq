@@ -4605,7 +4605,7 @@ components:
       required:
         - id
         - messageCount
-    Channeltopic:
+    ChannelTopic:
       title: ChannelTopic
       type: object
       description: Channel topic
